@@ -11,6 +11,9 @@
 # production
 /build
 
+# repl.it
+.replit
+
 # misc
 .DS_Store
 .env.local
