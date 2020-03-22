@@ -1,8 +1,4 @@
-import React, { useEffect, useState } from 'react';
-import { getSelectedIssueDetails } from '../../../backend/api';
-import { Accordion, Panel } from 'baseui/accordion';
-import { ProgressBar } from 'baseui/progress-bar';
-import {Block} from 'baseui/block'
+import React from 'react';
 import VoteCountAccordion from './VoteCountAccordion';
 
 const Dashboard = () => {
